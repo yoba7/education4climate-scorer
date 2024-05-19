@@ -1,0 +1,1521 @@
+[
+     {
+          "pattern_id":1,
+          "pattern_en":"bioclimat[^ ]+ approach",
+          "pattern_fr":"approches? bioclimat",
+          "pattern_nl":"bioklima[^ ]+ benadering",
+          "theme":"building"
+     },
+     {
+          "pattern_id":2,
+          "pattern_en":"(?:sustainable urban|urban sustaina)",
+          "pattern_fr":"agglom[eé]rations? durab",
+          "pattern_nl":"duurzame agglomeratie",
+          "theme":"building"
+     },
+     {
+          "pattern_id":3,
+          "pattern_en":"bioclimat[^ ]+ architecture",
+          "pattern_fr":"architectur[^ ]+ bioclimatique",
+          "pattern_nl":"bioklima[^ ]+ architect",
+          "theme":"building"
+     },
+     {
+          "pattern_id":4,
+          "pattern_en":"sustainable architecture",
+          "pattern_fr":"architectures? durab",
+          "pattern_nl":"duurzame architect",
+          "theme":"building"
+     },
+     {
+          "pattern_id":5,
+          "pattern_en":"bioclimat[^ ]+ design",
+          "pattern_fr":"conceptions? bioclimat",
+          "pattern_nl":"bioklima[^ ]+ ontwerp",
+          "theme":"building"
+     },
+     {
+          "pattern_id":6,
+          "pattern_en":"energy[- ]?efficient building design",
+          "pattern_fr":"conceptions? [eé]nerg[^ ]+ (?:des|du) b[aâ]timent",
+          "pattern_nl":"energiezuinig gebouwontwerp",
+          "theme":"building"
+     },
+     {
+          "pattern_id":7,
+          "pattern_en":"sustainable building",
+          "pattern_fr":"constructions? durab",
+          "pattern_nl":"duurzaam (?:gebouw|constructie)",
+          "theme":"building"
+     },
+     {
+          "pattern_id":8,
+          "pattern_en":"(?:low[- ]?energy|passive) construction",
+          "pattern_fr":"constructions? (?:basse [eé]nergie|passive)",
+          "pattern_nl":"(?:energiezuinige|passieve) (?:gebouw|constructie)",
+          "theme":"building"
+     },
+     {
+          "pattern_id":9,
+          "pattern_en":"eco[- ]?construction",
+          "pattern_fr":"[eé]co[- ]?construction",
+          "pattern_nl":"eco[- ]?constructie",
+          "theme":"building"
+     },
+     {
+          "pattern_id":10,
+          "pattern_en":"urban sprawl",
+          "pattern_fr":"[eé]talements? urbain",
+          "pattern_nl":"stadsuitbreiding",
+          "theme":"building"
+     },
+     {
+          "pattern_id":11,
+          "pattern_en":"environment[^ ]* permit",
+          "pattern_fr":"permis (?:d')environnement",
+          "pattern_nl":"milieuvergunning",
+          "theme":"building"
+     },
+     {
+          "pattern_id":12,
+          "pattern_en":"sustainable cit(?:y|ies)",
+          "pattern_fr":"villes? durab",
+          "pattern_nl":"duurzame (?:stad|steden)",
+          "theme":"building"
+     },
+     {
+          "pattern_id":13,
+          "pattern_en":"land[- ]?use planning#(?:environment|ecosystem)",
+          "pattern_fr":"am[eé]nagements? du territoire#(?:environnement|[eé]cosyst)",
+          "pattern_nl":"ruimtelijke ordening#(?:milieu|ecosystee?m)",
+          "theme":"building"
+     },
+     {
+          "pattern_id":14,
+          "pattern_en":"land[- ]?use planning#sustaina",
+          "pattern_fr":"am[eé]nagements? du territoire#durab",
+          "pattern_nl":"ruimtelijke ordening#duurzaa?m",
+          "theme":"building"
+     },
+     {
+          "pattern_id":15,
+          "pattern_en":"energy saving#building",
+          "pattern_fr":"[eé]conomies? d'[eé]nergie#b[aâ]timent",
+          "pattern_nl":"energiebesparing#gebouw",
+          "theme":"building"
+     },
+     {
+          "pattern_id":16,
+          "pattern_en":"energy saving#industry",
+          "pattern_fr":"[eé]conomies? d'[eé]nergie#industrie",
+          "pattern_nl":"energiebesparing#industrie",
+          "theme":"building"
+     },
+     {
+          "pattern_id":17,
+          "pattern_en":"energy performance#building",
+          "pattern_fr":"performances? [eé]nerg[^ ]+#b[aâ]timent",
+          "pattern_nl":"energieprestatie#gebouw",
+          "theme":"building"
+     },
+     {
+          "pattern_id":18,
+          "pattern_en":"energy performance#architecture",
+          "pattern_fr":"performances? [eé]nerg[^ ]+#architecture",
+          "pattern_nl":"energieprestatie#architect",
+          "theme":"building"
+     },
+     {
+          "pattern_id":19,
+          "pattern_en":"low-carbon",
+          "pattern_fr":"bas[- ]carbon",
+          "pattern_nl":"(?:lage[- ]?koolstof|koolstofarm)",
+          "theme":"carbon"
+     },
+     {
+          "pattern_id":20,
+          "pattern_en":"carbon balance",
+          "pattern_fr":"bilans? carbon",
+          "pattern_nl":"koolstofbalans",
+          "theme":"carbon"
+     },
+     {
+          "pattern_id":21,
+          "pattern_en":"(?:capture|sequestration)(?: of)?(?: co2|carbon)",
+          "pattern_fr":"captures? (?:du |de )?(?:co2|dioxyde de carbone)",
+          "pattern_nl":"(?:(?:vastlegging|opslag) van (?:co2|koolstof|kool(?:stof)?dioxide)|(?:co2|koolstof|kool(?:stof)?dioxide) (?:vastlegging|opslag))",
+          "theme":"carbon"
+     },
+     {
+          "pattern_id":22,
+          "pattern_en":"(?:conversion|transformation) (?:of)?(?: co2|carbon)",
+          "pattern_fr":"conversi[^ ]+ (?:du |de )?(?:co2|dioxyde de carbone)",
+          "pattern_nl":"(?:(?:omzetting|transformatie) van (?:co2|koolstof|kool(?:stof)?dioxide)|(?:co2|koolstof|kool(?:stof)?dioxide) (?:omzetting|transformatie))",
+          "theme":"carbon"
+     },
+     {
+          "pattern_id":23,
+          "pattern_en":"carbon cycle",
+          "pattern_fr":"cycles? du carbone",
+          "pattern_nl":"koolstof ?cyclus",
+          "theme":"carbon"
+     },
+     {
+          "pattern_id":24,
+          "pattern_en":"decarboni(?:s|z)ation",
+          "pattern_fr":"d[eé]carbon",
+          "pattern_nl":"decarbonisatie",
+          "theme":"carbon"
+     },
+     {
+          "pattern_id":25,
+          "pattern_en":"(?:emission|release)(?: of)?(?: co2|carbon dioxide)",
+          "pattern_fr":"[eé]missions? (?:du |de )?(?:co2|dioxyde de carbone)",
+          "pattern_nl":"(?:uitstoot|emissie) van (?:co2|koolstof|kool(?:stof)?dioxide)",
+          "theme":"carbon"
+     },
+     {
+          "pattern_id":26,
+          "pattern_en":"carbon footprint",
+          "pattern_fr":"empreint[^ ]+ carbon",
+          "pattern_nl":"koolstof ?voetafdruk",
+          "theme":"carbon"
+     },
+     {
+          "pattern_id":27,
+          "pattern_en":"carbon neutral",
+          "pattern_fr":"neutr[^ ]+ (?:en )carbon",
+          "pattern_nl":"klimaatneutra",
+          "theme":"carbon"
+     },
+     {
+          "pattern_id":28,
+          "pattern_en":"(?:(?:co2|carbon(?: dioxide)?) sequestration|sequestration of (?:co2|carbon))",
+          "pattern_fr":"s[eé]questrat[^ ]+ (?:du |de )?(?:co2|dioxyde de carbone)",
+          "pattern_nl":"(?:opslag[^ ]+ van (?:co2|koolstof|kool(?:stof)?dioxide)|(?:co2|koolstof|kool(?:stof)?dioxide) opslag)",
+          "theme":"carbon"
+     },
+     {
+          "pattern_id":29,
+          "pattern_en":"(?:(?:co2|carbon(?: dioxide)?) stock|stock[^ ]+ of (?:co2|carbon))",
+          "pattern_fr":"stock[^ ]* (?:du |de )?(?:co2|dioxyde de carbone)",
+          "pattern_nl":null,
+          "theme":"carbon"
+     },
+     {
+          "pattern_id":30,
+          "pattern_en":"(?:(?:co2|carbon(?: dioxide)?) valori(?:z|s)|valori(?:z|s)[^ ]+ of (?:co2|carbon))",
+          "pattern_fr":"valorisat[^ ]+ (?:du |de )?(?:co2|dioxyde de carbone)",
+          "pattern_nl":"(?:valorisatie[^ ]+ van (?:co2|koolstof|kool(?:stof)?dioxide)|(?:co2|koolstof|kool(?:stof)?dioxide) valorisatie)",
+          "theme":"carbon"
+     },
+     {
+          "pattern_id":31,
+          "pattern_en":"(?:^|[^a-z])cop ?[0-9]+",
+          "pattern_fr":"(?:^|[^a-z])cop ?[0-9]+",
+          "pattern_nl":"(?:^|[^a-z])cop ?[0-9]+",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":32,
+          "pattern_en":"paris agreement#climate",
+          "pattern_fr":"accords? de paris#climat",
+          "pattern_nl":"(?:parijs[- ]?akkoord|akkoord van parijs)#klimaat",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":33,
+          "pattern_en":"climate adaptation",
+          "pattern_fr":"adaptations? climat",
+          "pattern_nl":"klimaat ?adaptatie",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":34,
+          "pattern_en":"climate change",
+          "pattern_fr":"changements? climat",
+          "pattern_nl":"klimaat ?verandering",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":35,
+          "pattern_en":"climatolog",
+          "pattern_fr":"climatolog",
+          "pattern_nl":"klimatologie",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":36,
+          "pattern_en":"climate skeptic",
+          "pattern_fr":"climato[- ]?scept",
+          "pattern_nl":"klimaatscepticus",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":37,
+          "pattern_en":"climate cris(?:e|i)s",
+          "pattern_fr":"crises? climat",
+          "pattern_nl":"klimaat ?crisis",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":38,
+          "pattern_en":null,
+          "pattern_fr":"d[eé]reglements? climat",
+          "pattern_nl":null,
+          "theme":"climate"
+     },
+     {
+          "pattern_id":39,
+          "pattern_en":"green[- ]?house effect",
+          "pattern_fr":"effets? (?:de )?serre",
+          "pattern_nl":"broeikaseffect",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":40,
+          "pattern_en":"climate issue",
+          "pattern_fr":"enjeux? climat",
+          "pattern_nl":"klimaat ?proble",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":41,
+          "pattern_en":"glaciolog",
+          "pattern_fr":"glaciolog",
+          "pattern_nl":"glaciologie",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":42,
+          "pattern_en":"climat[^ ]+ impact",
+          "pattern_fr":"impacts? climat",
+          "pattern_nl":"klimaat ?impact",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":43,
+          "pattern_en":"climat[^ ]+ instabilit",
+          "pattern_fr":"instabilit[eé]s? climat",
+          "pattern_nl":"klimaat ?instabiliteit",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":44,
+          "pattern_en":"climat[^ ]+ justice",
+          "pattern_fr":"justices? climat",
+          "pattern_nl":"klimaat ?(?:gerechtigheid|rechtvaardigheid)",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":45,
+          "pattern_en":"climat[^ ]+ migration",
+          "pattern_fr":"migra[^ ]+ climat",
+          "pattern_nl":"klimaat ?migratie",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":46,
+          "pattern_en":"climat[^ ]+ model",
+          "pattern_fr":"model[^ ]+ climat",
+          "pattern_nl":"klimaat ?model",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":47,
+          "pattern_en":"climat[^ ]+ polic(?:y|ies)",
+          "pattern_fr":"politiques? climat",
+          "pattern_nl":"klimaat ?beleid",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":48,
+          "pattern_en":"climat[^ ]+ project",
+          "pattern_fr":"project[^ ]+ climat",
+          "pattern_nl":"klimaat ?project",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":49,
+          "pattern_en":"climat[^ ]+ question",
+          "pattern_fr":"questions? climat",
+          "pattern_nl":"klimaat ?vraagstuk",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":50,
+          "pattern_en":"climat[^ ]+ warming",
+          "pattern_fr":"r[eé]chauffements? climat",
+          "pattern_nl":"(?:opwarming van het klimaat|klimaat ?opwarming)",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":51,
+          "pattern_en":null,
+          "pattern_fr":"r[eé]chauffements? (?:de la plan[eè]te|plan[eé]taire)",
+          "pattern_nl":"opwarming van de aarde",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":52,
+          "pattern_en":null,
+          "pattern_fr":null,
+          "pattern_nl":"klimaat ?opwarming",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":53,
+          "pattern_en":null,
+          "pattern_fr":null,
+          "pattern_nl":"klimaat ?ontwrichting",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":54,
+          "pattern_en":"climat[^ ]+ refugee",
+          "pattern_fr":"r[eé]fugi[eé]s? climat",
+          "pattern_nl":"klimaat ?vluchteling",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":55,
+          "pattern_en":"climat[^ ]+ strateg",
+          "pattern_fr":"strategies? climat",
+          "pattern_nl":"klimaat ?strategie",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":56,
+          "pattern_en":"climat[^ ]+ transition",
+          "pattern_fr":"transiti[^ ]+ climat",
+          "pattern_nl":"klimaat ?transitie",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":57,
+          "pattern_en":"climat[^ ]+ emergenc",
+          "pattern_fr":"urgences? climat",
+          "pattern_nl":"klimaat ?nood(?:situatie|geval)",
+          "theme":"climate"
+     },
+     {
+          "pattern_id":58,
+          "pattern_en":"global warming",
+          "pattern_fr":null,
+          "pattern_nl":null,
+          "theme":"climate"
+     },
+     {
+          "pattern_id":59,
+          "pattern_en":"bioga(?:s|z)",
+          "pattern_fr":"bio[ -]?ga(?:z|s)",
+          "pattern_nl":"bio[ -]?ga(?:s|z)",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":60,
+          "pattern_en":"photovoltaic electric",
+          "pattern_fr":"[eé]lectri[^ ]+ photovol",
+          "pattern_nl":"fotovoltaische elektri",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":61,
+          "pattern_en":"green electric",
+          "pattern_fr":"[eé]lectri[^ ]+ verte",
+          "pattern_nl":"groene elektri",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":62,
+          "pattern_en":"alternative energy",
+          "pattern_fr":"[eé]nerg[^ ]+ alternati",
+          "pattern_nl":"alternatieve energie",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":63,
+          "pattern_en":"wind energy",
+          "pattern_fr":"[eé]nerg[^ ]+ [eé]olien",
+          "pattern_nl":"wind ?energie",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":64,
+          "pattern_en":"fossil energy",
+          "pattern_fr":"[eé]nerg[^ ]+ fossile",
+          "pattern_nl":"fossiele energie",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":65,
+          "pattern_en":"renewable energy",
+          "pattern_fr":"[eé]nerg[^ ]+ renouvelable",
+          "pattern_nl":"hernieuwbare energie",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":66,
+          "pattern_en":"green energy",
+          "pattern_fr":"[eé]nerg[^ ]+ verte",
+          "pattern_nl":"groene energie",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":67,
+          "pattern_en":"hydroelectric",
+          "pattern_fr":"hydro[eé]lec",
+          "pattern_nl":"waterkracht",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":68,
+          "pattern_en":"micro[- ]?grid",
+          "pattern_fr":"micro[- ]?r[eé]seau",
+          "pattern_nl":"micro[- ]?grid",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":69,
+          "pattern_en":"photovoltaic panel",
+          "pattern_fr":"panneaux? photovol",
+          "pattern_nl":"fotovoltaisch panee?l",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":70,
+          "pattern_en":"solar[- ]?thermal panel",
+          "pattern_fr":"panneaux? solaires? thermique",
+          "pattern_nl":"thermische? zonnepanee?l",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":71,
+          "pattern_en":"concentrated solar power",
+          "pattern_fr":"solaire [aà] concentration",
+          "pattern_nl":"geconcentreerde zonne[ -]?energie",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":72,
+          "pattern_en":"energy transition",
+          "pattern_fr":"transiti[^ ]+ [eé]nerg",
+          "pattern_nl":"energie ?transitie",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":73,
+          "pattern_en":"biomass#(?:energ[^ ]*|electric[^ ]*) production",
+          "pattern_fr":"biomasse#productions? (?:d')?(?:[eé]nerg|[eé]lec)",
+          "pattern_nl":"biomassa#(?:energie|elektri[^ ]+) ?productie",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":74,
+          "pattern_en":"energy#sustaina",
+          "pattern_fr":"[eé]nergie#durab",
+          "pattern_nl":"energie#duurzaa?m",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":75,
+          "pattern_en":"nuclear#(?:energ[^ ]*|electric[^ ]*) production",
+          "pattern_fr":"nucl[eé]aire#productions? (?:d')?(?:[eé]nerg|[eé]lec)",
+          "pattern_nl":"kernenergie#(?:energ[^ ]|elektrisch[^ ]) productie",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":76,
+          "pattern_en":"(?:reduce|decrease)(?: in)? energy consumption",
+          "pattern_fr":"(?:r[eé]d[^ ]+|diminu[^ ]+) (?:de la|des) consom[^ ]+ (?:d')?energ",
+          "pattern_nl":"(?:verminder|verlaag)[^ ]* (?:van )?energieverbruik",
+          "theme":"energy"
+     },
+     {
+          "pattern_id":77,
+          "pattern_en":"[[ ]ecolo[^ ]+]",
+          "pattern_fr":"[[ ]ecolo[^ ]+]",
+          "pattern_nl":"[[ ]ecolo[^ ]+]",
+          "theme":"life"
+     },
+     {
+          "pattern_id":78,
+          "pattern_en":"(?:ocean acidification|acidifications? of (?:the )ocean)",
+          "pattern_fr":"acidifications? (?:des |de l')ocean",
+          "pattern_nl":"(?:verzuring van (?:de )?oceaa?n|oceaanverzuring)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":79,
+          "pattern_en":"anthropocene",
+          "pattern_fr":"anthropoc[eè]n(?:e|ique)",
+          "pattern_nl":"anthropoceen",
+          "theme":"life"
+     },
+     {
+          "pattern_id":80,
+          "pattern_en":"(?:environment[^ ]* anthropology|anthropology of the environment)",
+          "pattern_fr":"anthropologies? (?:de l')?environnement",
+          "pattern_nl":"(?:milieu antropologie|antropologie van het milieu)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":81,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) benefits",
+          "pattern_fr":"b[eé]n[eé]fices? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:voordee?l voor het (?:milieu|ecosystee?m)|(?:milieu|ecosystee?m[^ ]*) ?voordee?l)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":82,
+          "pattern_en":"animal welfare",
+          "pattern_fr":"bien[- ][eê]tre (?:animal|des animaux)",
+          "pattern_nl":"(?:welzijn van dier|dierenwelzijn)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":83,
+          "pattern_en":"biodiversity",
+          "pattern_fr":"biodiversit[eé]",
+          "pattern_nl":"biodiversiteit",
+          "theme":"life"
+     },
+     {
+          "pattern_id":84,
+          "pattern_en":"conservation biology",
+          "pattern_fr":"biologies? de la conservation",
+          "pattern_nl":"(?:behoud|conserverings) ?biologie",
+          "theme":"life"
+     },
+     {
+          "pattern_id":85,
+          "pattern_en":"environment[^ ]* biology",
+          "pattern_fr":"biologies? environnemental",
+          "pattern_nl":"milieu ?biologie",
+          "theme":"life"
+     },
+     {
+          "pattern_id":86,
+          "pattern_en":"marine biology",
+          "pattern_fr":"biologies? marine",
+          "pattern_nl":"(?:zee|marine) ?biologie",
+          "theme":"life"
+     },
+     {
+          "pattern_id":87,
+          "pattern_en":"biosphere",
+          "pattern_fr":"biosph[eè]re",
+          "pattern_nl":"biosfeer",
+          "theme":"life"
+     },
+     {
+          "pattern_id":88,
+          "pattern_en":"bio[- ]?indicator",
+          "pattern_fr":"bio[ -]?indicateur",
+          "pattern_nl":"bio[- ]?indicator",
+          "theme":"life"
+     },
+     {
+          "pattern_id":89,
+          "pattern_en":"bio[- ]?based",
+          "pattern_fr":"bio[ -]?source",
+          "pattern_nl":"bio[- ]?gebaseerd",
+          "theme":"life"
+     },
+     {
+          "pattern_id":90,
+          "pattern_en":"(?:nature conservation|conservation of (?:the )nature)",
+          "pattern_fr":"conservations? de la nature",
+          "pattern_nl":"(?:natuurbehoud|behoud van (?:de )natuur)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":91,
+          "pattern_en":"environmental consideration",
+          "pattern_fr":"consid[eé]rations? environnement",
+          "pattern_nl":"(?:(?:beschouwing|verweging|zorgen) (?:van|over) het milieu|milieu ?(?:beschouwing|verweging))",
+          "theme":"life"
+     },
+     {
+          "pattern_id":92,
+          "pattern_en":"(?:soil degradation|degradation of (?:the )soil)",
+          "pattern_fr":"d[eé]gradations? (?:des|du) sol",
+          "pattern_nl":"(?:bodem(?:degradatie|aantasting)|(?:degradatie|aantasting) van (?:de )bodem)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":93,
+          "pattern_en":"ecophysiolog",
+          "pattern_fr":"[eé]cophysiologi",
+          "pattern_nl":"ecofysiologie",
+          "theme":"life"
+     },
+     {
+          "pattern_id":94,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) requirement",
+          "pattern_fr":"exigences? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?eis",
+          "theme":"life"
+     },
+     {
+          "pattern_id":95,
+          "pattern_en":"extinction cris(?:i|e)s",
+          "pattern_fr":"crises? d'extinction",
+          "pattern_nl":"uitstervingscris(?:i|e)s",
+          "theme":"life"
+     },
+     {
+          "pattern_id":96,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) cris(?:e|i)s",
+          "pattern_fr":"crises? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?cris(?:e|i)s",
+          "theme":"life"
+     },
+     {
+          "pattern_id":97,
+          "pattern_en":"bio-?geo-?chemical cycle",
+          "pattern_fr":"cycles? bio-?g[eé]o-?chimique",
+          "pattern_nl":"bio-?geo-?chemische cyclus",
+          "theme":"life"
+     },
+     {
+          "pattern_id":98,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) challenge",
+          "pattern_fr":"d[eé]fis? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?uitdaging",
+          "theme":"life"
+     },
+     {
+          "pattern_id":99,
+          "pattern_en":"(?:environment[^ ]*|[eé]cosystem) concern",
+          "pattern_fr":null,
+          "pattern_nl":null,
+          "theme":"life"
+     },
+     {
+          "pattern_id":100,
+          "pattern_en":"deforestation",
+          "pattern_fr":"d[eé]forestation",
+          "pattern_nl":"ontbossing",
+          "theme":"life"
+     },
+     {
+          "pattern_id":101,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) deterioration",
+          "pattern_fr":"d[eé]t[eé]riorations? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?verslechtering",
+          "theme":"life"
+     },
+     {
+          "pattern_id":102,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) right",
+          "pattern_fr":"droits? (?:d'|de l')?environnement",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?recht",
+          "theme":"life"
+     },
+     {
+          "pattern_id":103,
+          "pattern_en":"(?:socio-environment[^ ]*|ecosystem[^ ]*) sustainability",
+          "pattern_fr":"durabilit[eé]s? (?:(?:socio-?)?environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?duurzaamheid",
+          "theme":"life"
+     },
+     {
+          "pattern_id":104,
+          "pattern_en":"eco[- ]?tourism",
+          "pattern_fr":"[eé]cotourisme",
+          "pattern_nl":"ecotoerisme",
+          "theme":"life"
+     },
+     {
+          "pattern_id":105,
+          "pattern_en":"(?:environment[^ ]* education|education to the environment)",
+          "pattern_fr":"[eé]ducations? (?:[aà] l')?environnement",
+          "pattern_nl":"(?:milieu ?onderwijs|onderwijs over het milieu)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":106,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) issue",
+          "pattern_fr":"enjeux? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?kwestie",
+          "theme":"life"
+     },
+     {
+          "pattern_id":107,
+          "pattern_en":"endangered species",
+          "pattern_fr":"en voie d'extinction",
+          "pattern_nl":"bedreigde soorten",
+          "theme":"life"
+     },
+     {
+          "pattern_id":108,
+          "pattern_en":"protected species",
+          "pattern_fr":"esp[eè]ces? prot[eé]g[eé]",
+          "pattern_nl":"beschermde soorten",
+          "theme":"life"
+     },
+     {
+          "pattern_id":109,
+          "pattern_en":"animal ethics",
+          "pattern_fr":"[eé]thiques? animal",
+          "pattern_nl":"dieren ?ethiek",
+          "theme":"life"
+     },
+     {
+          "pattern_id":110,
+          "pattern_en":"environment[^ ]* ethics",
+          "pattern_fr":"[eé]thiques? environnement",
+          "pattern_nl":"milieu ?ethiek",
+          "theme":"life"
+     },
+     {
+          "pattern_id":111,
+          "pattern_en":"(?:species extinction|extinctions? of species)",
+          "pattern_fr":"extinctions? (?:des |de l')esp[eè]ce",
+          "pattern_nl":"(?:soorten uitsterven|uitsterven van soorten)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":112,
+          "pattern_en":"mass extinction",
+          "pattern_fr":"extinctions? (?:de masse|massive)",
+          "pattern_nl":"massa[ -]?extinctie",
+          "theme":"life"
+     },
+     {
+          "pattern_id":113,
+          "pattern_en":"environment[^ ]* engineering",
+          "pattern_fr":"génies? de l'environnement",
+          "pattern_nl":"milieu[ -]?engineering",
+          "theme":"life"
+     },
+     {
+          "pattern_id":114,
+          "pattern_en":"natural resources? management",
+          "pattern_fr":"gestions? (?:des? )?ressources? naturelle",
+          "pattern_nl":"beheer van natuurlijke hulpbronnen",
+          "theme":"life"
+     },
+     {
+          "pattern_id":115,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) governance",
+          "pattern_fr":"gouvernance (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?bestuur",
+          "theme":"life"
+     },
+     {
+          "pattern_id":116,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) impact",
+          "pattern_fr":"impacts? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?impact",
+          "theme":"life"
+     },
+     {
+          "pattern_id":117,
+          "pattern_en":"planetary limit",
+          "pattern_fr":"limites? plan[eéè]t",
+          "pattern_nl":"planetaire limiet",
+          "theme":"life"
+     },
+     {
+          "pattern_id":118,
+          "pattern_en":"biological control",
+          "pattern_fr":"luttes? biologique",
+          "pattern_nl":"biologische bestrijding",
+          "theme":"life"
+     },
+     {
+          "pattern_id":119,
+          "pattern_en":"environment[^ ]* management",
+          "pattern_fr":"managements? environnemental",
+          "pattern_nl":"milieu ?beheer",
+          "theme":"life"
+     },
+     {
+          "pattern_id":120,
+          "pattern_en":"environment[^ ]* migration",
+          "pattern_fr":"migra[^ ]+ environnement",
+          "pattern_nl":"milieu ?migratie",
+          "theme":"life"
+     },
+     {
+          "pattern_id":121,
+          "pattern_en":"oceanography",
+          "pattern_fr":"oc[eé]anograph",
+          "pattern_nl":"oceanografie",
+          "theme":"life"
+     },
+     {
+          "pattern_id":122,
+          "pattern_en":"environment[^ ]* performance",
+          "pattern_fr":"performances? environnement",
+          "pattern_nl":"milieu ?prestatie",
+          "theme":"life"
+     },
+     {
+          "pattern_id":123,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) loss",
+          "pattern_fr":"pertes? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?verlies",
+          "theme":"life"
+     },
+     {
+          "pattern_id":124,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) polic",
+          "pattern_fr":"politiques? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?beleid",
+          "theme":"life"
+     },
+     {
+          "pattern_id":125,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) problem",
+          "pattern_fr":"pr[eé]occupations? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?probleem",
+          "theme":"life"
+     },
+     {
+          "pattern_id":126,
+          "pattern_en":"problematics? of (?:the )?environment",
+          "pattern_fr":"probl[eè]mes? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"problematiek van (?:het )milieu",
+          "theme":"life"
+     },
+     {
+          "pattern_id":127,
+          "pattern_en":null,
+          "pattern_fr":"probl[eé]matiques? (?:d'|de l')?environnement",
+          "pattern_nl":null,
+          "theme":"life"
+     },
+     {
+          "pattern_id":128,
+          "pattern_en":"(?:nature protection|protection of nature)",
+          "pattern_fr":"protections? de la nature",
+          "pattern_nl":"(?:natuur ?bescherming|bescherming van (?:de )natuur)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":129,
+          "pattern_en":"(?:environment[^ ]* protection|protection of the environment)",
+          "pattern_fr":"protections? (?:de l')?environnement",
+          "pattern_nl":"(?:milieu ?bescherming|bescherming van het milieu)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":130,
+          "pattern_en":"environment[^ ]* psycholog",
+          "pattern_fr":"psychologies? (?:de l')?environnement",
+          "pattern_nl":"milieu ?psychologie",
+          "theme":"life"
+     },
+     {
+          "pattern_id":131,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) question",
+          "pattern_fr":"questions? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?vraagstuk",
+          "theme":"life"
+     },
+     {
+          "pattern_id":132,
+          "pattern_en":"human-animal relationship",
+          "pattern_fr":"rapports? homme[- ]animal",
+          "pattern_nl":"mens-dier ?relatie",
+          "theme":"life"
+     },
+     {
+          "pattern_id":133,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) regulation",
+          "pattern_fr":"r[eé]glement[^ ]* (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?regulering",
+          "theme":"life"
+     },
+     {
+          "pattern_id":134,
+          "pattern_en":"natural reserve",
+          "pattern_fr":"r[eé]serves? naturel",
+          "pattern_nl":"natuur[^ ]* ?(?:reservaat|gebied)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":135,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) responsibilit",
+          "pattern_fr":"responsabilit[eé]s? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?verantwoordelijkheid",
+          "theme":"life"
+     },
+     {
+          "pattern_id":136,
+          "pattern_en":"(?:forest restoration|restoration of forest)",
+          "pattern_fr":"restaurations? foresti[eè]re",
+          "pattern_nl":"(?:herstel van bos|bosherstel)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":137,
+          "pattern_en":"environment[^ ]* health",
+          "pattern_fr":"sant[eé]s? environnement",
+          "pattern_nl":"milieu ?gezondheid",
+          "theme":"life"
+     },
+     {
+          "pattern_id":138,
+          "pattern_en":"(?:environment[^ ]*|ecosystem) service",
+          "pattern_fr":"services? (?:environnement|[eé]cosyst)",
+          "pattern_nl":"(?:milieu|ecosystee?m[^ ]*) ?dienst",
+          "theme":"life"
+     },
+     {
+          "pattern_id":139,
+          "pattern_en":"[ ]soil?[ ]+#erosion",
+          "pattern_fr":"[ ]sols?[ ]+#[eé]rosion",
+          "pattern_nl":"[ ]bodem?[ ]+#erosie",
+          "theme":"life"
+     },
+     {
+          "pattern_id":140,
+          "pattern_en":"tourism#sustaina",
+          "pattern_fr":"tourisme#durab",
+          "pattern_nl":"toerisme#duurza",
+          "theme":"life"
+     },
+     {
+          "pattern_id":141,
+          "pattern_en":"(?:polar (?:ice|glacier)|permafrost|pergelisol)",
+          "pattern_fr":"(?:calottes?(?: polaires?|glaci[eè]res?)|permafrost|perg[eé]lisol)",
+          "pattern_nl":"(?:(?:polaire|ijs)kap|permafrost|pergelisol)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":142,
+          "pattern_en":"(?:aquatic|marine|coastal|subtidal|coral) (?:ecosystem|environment)",
+          "pattern_fr":"(?:[eé]cosyst[eè]mes?|environnements?) (?:aquatique|marin|littoral|subtidal|corallien)",
+          "pattern_nl":"(?:aquatische|maritieme|kust|subtidale|koraal) (?:ecosystee?m|milieu)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":143,
+          "pattern_en":"terrestrial (?:ecosystem|environment)",
+          "pattern_fr":"(?:[eé]cosystemes?|environnements?) terrestre",
+          "pattern_nl":"(?:terrestrische|aardse) (?:ecosystee?m|milieu)",
+          "theme":"life"
+     },
+     {
+          "pattern_id":144,
+          "pattern_en":"organic agriculture",
+          "pattern_fr":"agricult? biologique",
+          "pattern_nl":"biologische landbouw",
+          "theme":"food"
+     },
+     {
+          "pattern_id":145,
+          "pattern_en":"sustainable agriculture",
+          "pattern_fr":"agricult? durab",
+          "pattern_nl":"duurzame landbouw",
+          "theme":"food"
+     },
+     {
+          "pattern_id":146,
+          "pattern_en":"agro[- ]?climatology",
+          "pattern_fr":"agro-?climatologie",
+          "pattern_nl":"agro[- ]?klimatologie",
+          "theme":"food"
+     },
+     {
+          "pattern_id":147,
+          "pattern_en":"agro[- ]?ecology",
+          "pattern_fr":"agro-?[eé]colo",
+          "pattern_nl":"agro[- ]?ecologie",
+          "theme":"food"
+     },
+     {
+          "pattern_id":148,
+          "pattern_en":"agro[- ]?ecosystem",
+          "pattern_fr":"agro-?[eé]cosyst",
+          "pattern_nl":"agro[- ]?ecosystee?m",
+          "theme":"food"
+     },
+     {
+          "pattern_id":149,
+          "pattern_en":"agro[- ]?forestry",
+          "pattern_fr":"agro-?foresterie",
+          "pattern_nl":"agro[- ]?bosbouw",
+          "theme":"food"
+     },
+     {
+          "pattern_id":150,
+          "pattern_en":"short[- ]?circuit agriculture",
+          "pattern_fr":"circuits? court",
+          "pattern_nl":"korte[- ]?keten landbouw",
+          "theme":"food"
+     },
+     {
+          "pattern_id":151,
+          "pattern_en":"local (?:food|agriculture)",
+          "pattern_fr":"(?:nourriture|alimentation|agriculture) local",
+          "pattern_nl":"lokale (?:voedsel|landbouw)",
+          "theme":"food"
+     },
+     {
+          "pattern_id":152,
+          "pattern_en":"(?:fish stock depletion|depletions? of fish stock)",
+          "pattern_fr":"[eé]puisements? halieutique",
+          "pattern_nl":"(?:uitputting van visbestanden|visbestanden uitputting)",
+          "theme":"food"
+     },
+     {
+          "pattern_id":153,
+          "pattern_en":"sustainable fishing",
+          "pattern_fr":"p[eêè]ches? durab",
+          "pattern_nl":"duurzame visserij",
+          "theme":"food"
+     },
+     {
+          "pattern_id":154,
+          "pattern_en":"permaculture",
+          "pattern_fr":"permaculture",
+          "pattern_nl":"permacultuur",
+          "theme":"food"
+     },
+     {
+          "pattern_id":155,
+          "pattern_en":"over[- ]?fishing",
+          "pattern_fr":"surp[eê]che",
+          "pattern_nl":"overbevissing",
+          "theme":"food"
+     },
+     {
+          "pattern_id":156,
+          "pattern_en":"sustainable chemistry",
+          "pattern_fr":"chimie (?:[^ ]+ ){0,4}verte",
+          "pattern_nl":"duurzame chemie",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":157,
+          "pattern_en":"(?:responsible consumption|consume responsib)",
+          "pattern_fr":"consom[^ ]+ durab",
+          "pattern_nl":"duurzaa?me? (?:consum|verbruik)",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":158,
+          "pattern_en":"(?:sustainable consumption|consume sustainab)",
+          "pattern_fr":"consom[^ ]+ responsab",
+          "pattern_nl":"veraantword (?:consum|verbruik)",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":159,
+          "pattern_en":"eco[- ]?conception",
+          "pattern_fr":"[eé]co[- ]?conception",
+          "pattern_nl":"eco[- ]?conception",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":160,
+          "pattern_en":"eco[- ]?design",
+          "pattern_fr":"[eé]co[- ]?design",
+          "pattern_nl":"eco[- ]?ontwerp",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":161,
+          "pattern_en":"eco[- ]?responsible",
+          "pattern_fr":"[eé]co[- ]?responsab",
+          "pattern_nl":"eco[- ]?verantwoordelijk",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":162,
+          "pattern_en":"eco[- ]?tech",
+          "pattern_fr":"[eé]co[- ]?tech",
+          "pattern_nl":"eco[- ]?technologie",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":163,
+          "pattern_en":"rebound effect",
+          "pattern_fr":"effets? rebonds?",
+          "pattern_nl":"rebound[ -]?effect",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":164,
+          "pattern_en":"sustainable engineering",
+          "pattern_fr":"ing[eé]nieries? (?:durable|soutenable)",
+          "pattern_nl":"duurzame engineering",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":165,
+          "pattern_en":"sustainable production",
+          "pattern_fr":"produ[^ ]+ durab",
+          "pattern_nl":"duurzame productie",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":166,
+          "pattern_en":"green technolog",
+          "pattern_fr":"technologies? verte",
+          "pattern_nl":"groene technologie",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":167,
+          "pattern_en":"sustainable technolog",
+          "pattern_fr":"technologies? (?:durable|soutenable)",
+          "pattern_nl":"duurzame technologie",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":168,
+          "pattern_en":"environment[^ ]* technolog",
+          "pattern_fr":"technologies? (?:de l')?environnement",
+          "pattern_nl":"milieuvriendelijke technologie",
+          "theme":"prod&cons"
+     },
+     {
+          "pattern_id":169,
+          "pattern_en":"water treatment",
+          "pattern_fr":"assainissements? des eaux",
+          "pattern_nl":"waterbehandeling",
+          "theme":"pollution"
+     },
+     {
+          "pattern_id":170,
+          "pattern_en":"bio[- ]?degradable",
+          "pattern_fr":"bio[ -]?d[eé]gradable",
+          "pattern_nl":"bio[- ]?afbreekbaar",
+          "theme":"pollution"
+     },
+     {
+          "pattern_id":171,
+          "pattern_en":"bio[- ]?remediation",
+          "pattern_fr":"bio-?rem[eé]diation",
+          "pattern_nl":"bio[- ]?remediering",
+          "theme":"pollution"
+     },
+     {
+          "pattern_id":172,
+          "pattern_en":"(?:soil contamination|contaminat[^ ]+ (?:of )?soil)",
+          "pattern_fr":"contaminations? des sols|sols? contamin[eé]",
+          "pattern_nl":"(?:bodemvervuiling|vervuiling van bodem)",
+          "theme":"pollution"
+     },
+     {
+          "pattern_id":173,
+          "pattern_en":"pollution control",
+          "pattern_fr":"contr[oô]les? (?:de la pollution|des polluant)",
+          "pattern_nl":"vervuilingsbeheersing",
+          "theme":"pollution"
+     },
+     {
+          "pattern_id":174,
+          "pattern_en":"(?:nuclear|radioactive) waste",
+          "pattern_fr":"d[eé]chets? (?:nucl[eé]aire|radioactif)",
+          "pattern_nl":"(?:nucleair|radioactief) afval",
+          "theme":"pollution"
+     },
+     {
+          "pattern_id":175,
+          "pattern_en":"environment[^ ]* dumping",
+          "pattern_fr":"dumping environnement",
+          "pattern_nl":"milieu ?dumping",
+          "theme":"pollution"
+     },
+     {
+          "pattern_id":176,
+          "pattern_en":"ecotoxicology",
+          "pattern_fr":"[eé]cotoxicologie",
+          "pattern_nl":"ecotoxicologie",
+          "theme":"pollution"
+     },
+     {
+          "pattern_id":177,
+          "pattern_en":"water purif",
+          "pattern_fr":"[eé]purations? des eaux",
+          "pattern_nl":"waterzuivering",
+          "theme":"pollution"
+     },
+     {
+          "pattern_id":178,
+          "pattern_en":"pollut",
+          "pattern_fr":"pollu",
+          "pattern_nl":"vervuil",
+          "theme":"pollution"
+     },
+     {
+          "pattern_id":179,
+          "pattern_en":"air quality",
+          "pattern_fr":"qualit[eé]s? de l'air",
+          "pattern_nl":"lucht[ -]?kwaliteit",
+          "theme":"pollution"
+     },
+     {
+          "pattern_id":180,
+          "pattern_en":"environment[^ ]* toxicology",
+          "pattern_fr":"toxicologies? environnement",
+          "pattern_nl":"milieu ?toxicologie",
+          "theme":"pollution"
+     },
+     {
+          "pattern_id":181,
+          "pattern_en":"life[- ]?cycle (?:analys|assess)",
+          "pattern_fr":"analyses? (?:de |du )?cycle (?:de )?vie",
+          "pattern_nl":"levenscyclus ?(?:analyse|beoordeling)",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":182,
+          "pattern_en":"efficient (?:resource use|use of resource)",
+          "pattern_fr":"effica[^ ]+ (?:des )?ressource",
+          "pattern_nl":"efficient (?:gebruik van hulpbronnen|hulpbronnen gebruiken)",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":183,
+          "pattern_en":null,
+          "pattern_fr":"[eé]puisements? (?:des? )?ressources? naturelle",
+          "pattern_nl":null,
+          "theme":"resources"
+     },
+     {
+          "pattern_id":184,
+          "pattern_en":"sustainable exploitation",
+          "pattern_fr":"exploitations? durab",
+          "pattern_nl":"duurzame exploitatie",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":185,
+          "pattern_en":"(?:groundwater|aquifer|phreatic zone)",
+          "pattern_fr":"nappes? (?:phr[eé]atique|aquif[eè]re|d'eau souterrain)",
+          "pattern_nl":"(?:grondwater|aquifer|freatische zone)",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":186,
+          "pattern_en":"peak oil",
+          "pattern_fr":"pics? p[eé]trolier",
+          "pattern_nl":"piekolie",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":187,
+          "pattern_en":"(?:depletion of (?:the )?natural resource|natural resources? depletion)",
+          "pattern_fr":"rar[eé]factions? (des )?ressources naturelles",
+          "pattern_nl":"uitputting van natuurlijke hulpbronnen",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":188,
+          "pattern_en":null,
+          "pattern_fr":"ressources? (?:non-?)?renouvelable",
+          "pattern_nl":null,
+          "theme":"resources"
+     },
+     {
+          "pattern_id":189,
+          "pattern_en":"rare[- ]?earth element",
+          "pattern_fr":"terres? rare",
+          "pattern_nl":"zeldzaam[- ]?aard[e]?metaal",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":190,
+          "pattern_en":"(?:water management|management of (?:the )?water)#environment",
+          "pattern_fr":"gestions? (?:de l'|des )?eau#environnement",
+          "pattern_nl":"(?:waterbeheer|beheer van (?:de )?water)#milieu",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":191,
+          "pattern_en":"recycling#steel",
+          "pattern_fr":"recycla#acier",
+          "pattern_nl":"recycling#staal",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":192,
+          "pattern_en":"recycling#waste",
+          "pattern_fr":"recycla#dechet",
+          "pattern_nl":"recycling#afval",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":193,
+          "pattern_en":"recycling#material",
+          "pattern_fr":"recycla#materiau",
+          "pattern_nl":"recycling#materiaal",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":194,
+          "pattern_en":"recycling#metal",
+          "pattern_fr":"recycla#meta(?:l|u)",
+          "pattern_nl":"recycling#metaal",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":195,
+          "pattern_en":"recycling#plastic",
+          "pattern_fr":"recycla#plastique",
+          "pattern_nl":"recycling#plastic",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":196,
+          "pattern_en":"water resource#environment",
+          "pattern_fr":"ressources? eau#environnement",
+          "pattern_nl":"watervoorraad#milieu",
+          "theme":"resources"
+     },
+     {
+          "pattern_id":197,
+          "pattern_en":"bio[- ]?fuel",
+          "pattern_fr":"bio[ -]?carburant",
+          "pattern_nl":"bio[- ]?brandstof",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":198,
+          "pattern_en":"bio[- ]?diesel",
+          "pattern_fr":"bio[ -]?diesel",
+          "pattern_nl":"bio[- ]?diesel",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":199,
+          "pattern_en":"bio[- ]?m?ethanol",
+          "pattern_fr":"bio[ -]?m?[eé]thanol",
+          "pattern_nl":"bio[- ]?m?ethanol",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":200,
+          "pattern_en":"alternative fuel",
+          "pattern_fr":"carburants? alternati",
+          "pattern_nl":"alternatieve brandstof",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":201,
+          "pattern_en":"synthetic fuel",
+          "pattern_fr":"carburants? synth[eé]tique",
+          "pattern_nl":"synthetische brandstof",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":202,
+          "pattern_en":"micro[- ]?mobility",
+          "pattern_fr":"micro[ -]?mobilit[eé]",
+          "pattern_nl":"micro[- ]?mobiliteit",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":203,
+          "pattern_en":"hydrogen mobility",
+          "pattern_fr":"mobilit[eé]s? (?:[aà] )?hydrog",
+          "pattern_nl":"waterstofmobiliteit",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":204,
+          "pattern_en":"electric mobility",
+          "pattern_fr":"mobilit[eé]s? [eé]lectriques?",
+          "pattern_nl":"elektrische mobiliteit",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":205,
+          "pattern_en":"sustainable mobility",
+          "pattern_fr":"mobilit[eé]s? durab",
+          "pattern_nl":"duurzame mobiliteit",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":206,
+          "pattern_en":"shared mobility",
+          "pattern_fr":"mobilit[eé]s? partag[eé]",
+          "pattern_nl":"gedeelde mobiliteit",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":207,
+          "pattern_en":"sustainable transport",
+          "pattern_fr":"transports? durab",
+          "pattern_nl":"duurzaam transport",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":208,
+          "pattern_en":"[[ ]bikes?[ ]]",
+          "pattern_fr":"[[ ]velos?[ ]]",
+          "pattern_nl":"[[ ]fiets]",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":209,
+          "pattern_en":"hydrogen (?:vehicle|car)",
+          "pattern_fr":"(?:v[eé]hicules?|voitures?) (?:[aà] )?hydrog",
+          "pattern_nl":"waterstof(?:voertuig|auto)",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":210,
+          "pattern_en":"hybrid (?:vehicle|car)",
+          "pattern_fr":"(?:v[eé]hicules?|voitures?) hybride",
+          "pattern_nl":"hybride?(?:voertuig|auto)",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":211,
+          "pattern_en":"electric (?:vehicle|car)",
+          "pattern_fr":"(?:v[eé]hicules?|voitures?) [eé]lectrique",
+          "pattern_nl":"elektrische?(?:voertuig|auto)",
+          "theme":"transport"
+     },
+     {
+          "pattern_id":212,
+          "pattern_en":"circular economy",
+          "pattern_fr":"[eé]conomies? circulaire",
+          "pattern_nl":"circulaire economie",
+          "theme":"economy"
+     },
+     {
+          "pattern_id":213,
+          "pattern_en":"economy of the commons",
+          "pattern_fr":"[eé]conomies? des communs",
+          "pattern_nl":"economie van de commons",
+          "theme":"economy"
+     },
+     {
+          "pattern_id":214,
+          "pattern_en":"iso 1400",
+          "pattern_fr":"iso 1400",
+          "pattern_nl":"iso 1400",
+          "theme":"economy"
+     },
+     {
+          "pattern_id":215,
+          "pattern_en":"green micro[- ]?finance",
+          "pattern_fr":"micro-?finance verte",
+          "pattern_nl":"groene micro[- ]?financiering",
+          "theme":"economy"
+     },
+     {
+          "pattern_id":216,
+          "pattern_en":"(?:doughnut|donut) (?:econom|theory)",
+          "pattern_fr":"(?:th[eé]ories?|[eé]conomies?) du donut",
+          "pattern_nl":"donut (?:econom|theorie)",
+          "theme":"economy"
+     },
+     {
+          "pattern_id":217,
+          "pattern_en":"collapsology",
+          "pattern_fr":"collapsologie",
+          "pattern_nl":"collapsologie",
+          "theme":"general"
+     }
+]

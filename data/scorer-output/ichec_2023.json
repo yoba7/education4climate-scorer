@@ -1,0 +1,542 @@
+[
+     {
+          "index":0,
+          "id":"21IDM26",
+          "field":"content",
+          "pattern":212,
+          "sub_pattern":"circular\\s+economy",
+          "start":174,
+          "end":190,
+          "extract":"\tSustainability and Circular Economy\n\n\u2022\tPart 2: The Acto"
+     },
+     {
+          "index":0,
+          "id":"21EC015",
+          "field":"content",
+          "pattern":106,
+          "sub_pattern":"(?:environment[^\\s]*|ecosystem)\\s+issue",
+          "start":73,
+          "end":92,
+          "extract":"and significance of environmental issues in economic theori"
+     },
+     {
+          "index":0,
+          "id":"21EC015",
+          "field":"content",
+          "pattern":124,
+          "sub_pattern":"(?:environment[^\\s]*|ecosystem)\\s+polic",
+          "start":414,
+          "end":433,
+          "extract":"individual firms\n\n- Environmental policies and their effect"
+     },
+     {
+          "index":0,
+          "id":"21SH033",
+          "field":"content",
+          "pattern":127,
+          "sub_pattern":"probl[e\u00e9]matiques?\\s+(?:d'|de\\s+l')?environnement",
+          "start":214,
+          "end":242,
+          "extract":"e de cas li\u00e9s \u00e0 des probl\u00e9matiques environnementales concr\u00e8tes\n\n3. P"
+     },
+     {
+          "index":0,
+          "id":"21EC014",
+          "field":"content",
+          "pattern":106,
+          "sub_pattern":"(?:environment[^\\s]*|ecosystem)\\s+issue",
+          "start":73,
+          "end":92,
+          "extract":"and significance of environmental issues in economic theori"
+     },
+     {
+          "index":0,
+          "id":"21EC014",
+          "field":"content",
+          "pattern":124,
+          "sub_pattern":"(?:environment[^\\s]*|ecosystem)\\s+polic",
+          "start":486,
+          "end":505,
+          "extract":"ms or otherwise?\n\n- Environmental policies and their effect"
+     },
+     {
+          "index":0,
+          "id":"31DCG10",
+          "field":"goal",
+          "pattern":126,
+          "sub_pattern":"probl[e\u00e8]mes?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":897,
+          "end":920,
+          "extract":"du capitalisme, les probl\u00e8mes environnementaux ou l'instabilit\u00e9"
+     },
+     {
+          "index":0,
+          "id":"13UST12",
+          "field":"content",
+          "pattern":65,
+          "sub_pattern":"[e\u00e9]nerg[^\\s]+\\s+renouvelable",
+          "start":1256,
+          "end":1277,
+          "extract":"tions, sur base des \u00e9nergies renouvelables et non renouvelabl"
+     },
+     {
+          "index":0,
+          "id":"13UST12",
+          "field":"goal",
+          "pattern":74,
+          "sub_pattern":"[e\u00e9]nergie",
+          "start":744,
+          "end":751,
+          "extract":"et le stockage de l'\u00e9nergie \u00e9lectrique, en ce y"
+     },
+     {
+          "index":1,
+          "id":"13UST12",
+          "field":"goal",
+          "pattern":74,
+          "sub_pattern":"[e\u00e9]nergie",
+          "start":3175,
+          "end":3182,
+          "extract":"de dissipation de l'\u00e9nergie \u00e9lectrique.\n\n-\tExpl"
+     },
+     {
+          "index":2,
+          "id":"13UST12",
+          "field":"goal",
+          "pattern":74,
+          "sub_pattern":"[e\u00e9]nergie",
+          "start":3872,
+          "end":3879,
+          "extract":" l'utilisation de l'\u00e9nergie \u00e9lectrique, tels qu"
+     },
+     {
+          "index":3,
+          "id":"13UST12",
+          "field":"goal",
+          "pattern":74,
+          "sub_pattern":"[e\u00e9]nergie",
+          "start":4067,
+          "end":4074,
+          "extract":"nsion, puissance et \u00e9nergie. \n\n-\tCalculer les c"
+     },
+     {
+          "index":4,
+          "id":"13UST12",
+          "field":"goal",
+          "pattern":74,
+          "sub_pattern":"[e\u00e9]nergie",
+          "start":4616,
+          "end":4623,
+          "extract":"dal. \n\n-\tCalculer l'\u00e9nergie \u00e9lectrique emmagasi"
+     },
+     {
+          "index":5,
+          "id":"13UST12",
+          "field":"goal",
+          "pattern":74,
+          "sub_pattern":"[e\u00e9]nergie",
+          "start":4905,
+          "end":4912,
+          "extract":"et au stockage de l'\u00e9nergie \u00e9lectrique, en ce y"
+     },
+     {
+          "index":6,
+          "id":"13UST12",
+          "field":"goal",
+          "pattern":74,
+          "sub_pattern":"[e\u00e9]nergie",
+          "start":5138,
+          "end":5145,
+          "extract":"et au stockage de l'\u00e9nergie \u00e9lectrique, en ce y"
+     },
+     {
+          "index":7,
+          "id":"13UST12",
+          "field":"goal",
+          "pattern":74,
+          "sub_pattern":"durab",
+          "start":473,
+          "end":478,
+          "extract":"fs du d\u00e9veloppement durable est mise en exerg"
+     },
+     {
+          "index":8,
+          "id":"13UST12",
+          "field":"goal",
+          "pattern":74,
+          "sub_pattern":"durab",
+          "start":1815,
+          "end":1820,
+          "extract":"fs du d\u00e9veloppement durable font partie du co"
+     },
+     {
+          "index":9,
+          "id":"13UST12",
+          "field":"goal",
+          "pattern":74,
+          "sub_pattern":"durab",
+          "start":3838,
+          "end":3843,
+          "extract":"ux en d\u00e9veloppement durable li\u00e9s \u00e0 l'utilisat"
+     },
+     {
+          "index":0,
+          "id":"13UST12",
+          "field":"goal",
+          "pattern":116,
+          "sub_pattern":"impacts?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":3905,
+          "end":3926,
+          "extract":"rique, tels que les impacts environnementaux, sociaux et \u00e9con"
+     },
+     {
+          "index":1,
+          "id":"13UST12",
+          "field":"goal",
+          "pattern":116,
+          "sub_pattern":"impacts?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":5010,
+          "end":5031,
+          "extract":"-      Analyser les impacts environnementaux relatifs aux tec"
+     },
+     {
+          "index":0,
+          "id":"13UXP16",
+          "field":"content",
+          "pattern":116,
+          "sub_pattern":"impacts?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":1979,
+          "end":2000,
+          "extract":"t de quantifier les impacts environnementaux des produits \u00e0 c"
+     },
+     {
+          "index":0,
+          "id":"21ST040",
+          "field":"goal",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":1054,
+          "end":1066,
+          "extract":"ordant la notion de chimie verte.\n\n\n\nEn termes de sa"
+     },
+     {
+          "index":0,
+          "id":"21ST030",
+          "field":"content",
+          "pattern":11,
+          "sub_pattern":"permis\\s+(?:d')environnement",
+          "start":874,
+          "end":896,
+          "extract":"le\n\nChapitre 2 : Le permis d'environnement et les \u00e9tudes d'inc"
+     },
+     {
+          "index":0,
+          "id":"21ST030",
+          "field":"content",
+          "pattern":102,
+          "sub_pattern":"droits?\\s+(?:d'|de\\s+l')?environnement",
+          "start":751,
+          "end":775,
+          "extract":"\u00e9mentaires\n\n\n\nAA2 : Droit de l'environnement\n\nChapitre 1 : Intro"
+     },
+     {
+          "index":0,
+          "id":"21ST030",
+          "field":"goal",
+          "pattern":102,
+          "sub_pattern":"droits?\\s+(?:d'|de\\s+l')?environnement",
+          "start":42,
+          "end":66,
+          "extract":" l'environnement et Droit de l'environnement\n\nContribution au pr"
+     },
+     {
+          "index":1,
+          "id":"21ST030",
+          "field":"goal",
+          "pattern":102,
+          "sub_pattern":"droits?\\s+(?:d'|de\\s+l')?environnement",
+          "start":2012,
+          "end":2036,
+          "extract":"ants aux rouages du droit de l'environnement et de les former au"
+     },
+     {
+          "index":0,
+          "id":"21ST030",
+          "field":"goal",
+          "pattern":126,
+          "sub_pattern":"probl[e\u00e8]mes?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":366,
+          "end":389,
+          "extract":"ce et \u00e9thique.\n\nLes probl\u00e8mes environnementaux occupent une pla"
+     },
+     {
+          "index":1,
+          "id":"21ST030",
+          "field":"goal",
+          "pattern":126,
+          "sub_pattern":"probl[e\u00e8]mes?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":1373,
+          "end":1396,
+          "extract":"que constituent les probl\u00e8mes environnementaux en lien avec leu"
+     },
+     {
+          "index":0,
+          "id":"21ST030",
+          "field":"content",
+          "pattern":135,
+          "sub_pattern":"responsabilit[e\u00e9]s?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":825,
+          "end":853,
+          "extract":"n\u00e9rale et notion de responsabilit\u00e9 environnementale\n\nChapitre 2 : Le"
+     },
+     {
+          "index":0,
+          "id":"21ST030",
+          "field":"content",
+          "pattern":177,
+          "sub_pattern":"[e\u00e9]purations?\\s+des\\s+eaux",
+          "start":202,
+          "end":220,
+          "extract":"lution de l'eau\n\n5. Epuration des eaux us\u00e9es et production"
+     },
+     {
+          "index":0,
+          "id":"21ST030",
+          "field":"content",
+          "pattern":178,
+          "sub_pattern":"pollu",
+          "start":179,
+          "end":184,
+          "extract":"4. Evaluation de la pollution de l'eau\n\n5. Ep"
+     },
+     {
+          "index":1,
+          "id":"21ST030",
+          "field":"content",
+          "pattern":178,
+          "sub_pattern":"pollu",
+          "start":1003,
+          "end":1008,
+          "extract":"\u00e9glementation de la pollution et de l'assaini"
+     },
+     {
+          "index":0,
+          "id":"21GE060",
+          "field":"content",
+          "pattern":39,
+          "sub_pattern":"effets?\\s+(?:de\\s+)?serre",
+          "start":1530,
+          "end":1544,
+          "extract":"l\u00e9matique des gaz \u00e0 effet de serre sur le secteur \u00e9lec"
+     },
+     {
+          "index":0,
+          "id":"21GE060",
+          "field":"goal",
+          "pattern":62,
+          "sub_pattern":"[e\u00e9]nerg[^\\s]+\\s+alternati",
+          "start":865,
+          "end":882,
+          "extract":" \u00e0 gaz, combin\u00e9s, \u00e0 \u00e9nergie alternative) et de chaleur (c"
+     },
+     {
+          "index":0,
+          "id":"21GE060",
+          "field":"goal",
+          "pattern":75,
+          "sub_pattern":"nucl[e\u00e9]aire",
+          "start":438,
+          "end":447,
+          "extract":" vapeur (classique, nucl\u00e9aire), les turbines \u00e0 ga"
+     },
+     {
+          "index":1,
+          "id":"21GE060",
+          "field":"goal",
+          "pattern":75,
+          "sub_pattern":"productions?\\s+(?:d')?(?:[e\u00e9]nerg|[e\u00e9]lec)",
+          "start":810,
+          "end":827,
+          "extract":"iff\u00e9rents cycles de production d'\u00e9lectricit\u00e9 (\u00e0 vapeur, \u00e0"
+     },
+     {
+          "index":2,
+          "id":"21GE060",
+          "field":"goal",
+          "pattern":75,
+          "sub_pattern":"productions?\\s+(?:d')?(?:[e\u00e9]nerg|[e\u00e9]lec)",
+          "start":1446,
+          "end":1463,
+          "extract":"rincipaux cycles de production d'\u00e9lectricit\u00e9 ;\n\n-\tD\u00e9finir"
+     },
+     {
+          "index":0,
+          "id":"21ST010",
+          "field":"content",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":1482,
+          "end":1510,
+          "extract":"artie : Catalyse et chimie verte\n\n\u2022 Chimie verte et d\u00e9veloppement du"
+     },
+     {
+          "index":1,
+          "id":"21ST010",
+          "field":"content",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":1578,
+          "end":1590,
+          "extract":" et applications en chimie verte\n\n- G\u00e9n\u00e9ralit\u00e9s\n\n- C"
+     },
+     {
+          "index":0,
+          "id":"21ST010",
+          "field":"goal",
+          "pattern":188,
+          "sub_pattern":"ressources?\\s+(?:non-?)?renouvelable",
+          "start":1071,
+          "end":1094,
+          "extract":"t du p\u00e9trole et des ressources renouvelables, les grandes voies"
+     },
+     {
+          "index":0,
+          "id":"22MGD40",
+          "field":"content",
+          "pattern":106,
+          "sub_pattern":"enjeux?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":382,
+          "end":402,
+          "extract":"\u00e9hension des grands enjeux environnementaux selon une logiqu"
+     },
+     {
+          "index":0,
+          "id":"21FFM18",
+          "field":"goal",
+          "pattern":40,
+          "sub_pattern":"enjeux?\\s+climat",
+          "start":331,
+          "end":344,
+          "extract":"e challeng\u00e9 par les enjeux climatiques et \u00e0 r\u00e9fl\u00e9chir"
+     },
+     {
+          "index":0,
+          "id":"21FFM14",
+          "field":"goal",
+          "pattern":40,
+          "sub_pattern":"enjeux?\\s+climat",
+          "start":223,
+          "end":236,
+          "extract":"e challeng\u00e9 par les enjeux climatiques. \n\n\n\nLe second"
+     },
+     {
+          "index":0,
+          "id":"21FFM12",
+          "field":"goal",
+          "pattern":40,
+          "sub_pattern":"enjeux?\\s+climat",
+          "start":223,
+          "end":236,
+          "extract":"e challeng\u00e9 par les enjeux climatiques. \n\n\n\nLe second"
+     },
+     {
+          "index":0,
+          "id":"22MPD20",
+          "field":"content",
+          "pattern":106,
+          "sub_pattern":"enjeux?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":476,
+          "end":496,
+          "extract":"ement \u00e9conomique et enjeux Environnementaux.\n\n2.2.\tCroissanc"
+     },
+     {
+          "index":0,
+          "id":"22MPD20",
+          "field":"content",
+          "pattern":216,
+          "sub_pattern":"(?:th[e\u00e9]ories?|[e\u00e9]conomies?)\\s+du\\s+donut",
+          "start":568,
+          "end":584,
+          "extract":"nnementale\n\n2.3.\tLa th\u00e9orie du Donut, nouvelle boussole "
+     },
+     {
+          "index":0,
+          "id":"22SH024",
+          "field":"goal",
+          "pattern":83,
+          "sub_pattern":"biodiversity",
+          "start":1225,
+          "end":1237,
+          "extract":" climate breakdown, biodiversity loss or the rise of"
+     },
+     {
+          "index":0,
+          "id":"22EC012",
+          "field":"content",
+          "pattern":106,
+          "sub_pattern":"(?:environment[^\\s]*|ecosystem)\\s+issue",
+          "start":73,
+          "end":92,
+          "extract":"and significance of environmental issues in economic theori"
+     },
+     {
+          "index":0,
+          "id":"22EC012",
+          "field":"content",
+          "pattern":124,
+          "sub_pattern":"(?:environment[^\\s]*|ecosystem)\\s+polic",
+          "start":486,
+          "end":505,
+          "extract":"ms or otherwise?\n\n- Environmental policies and their effect"
+     },
+     {
+          "index":0,
+          "id":"12UGE21",
+          "field":"goal",
+          "pattern":34,
+          "sub_pattern":"changements?\\s+climat",
+          "start":1057,
+          "end":1074,
+          "extract":" au 21e si\u00e8cle : le changement climatique, la pauvret\u00e9 et"
+     },
+     {
+          "index":0,
+          "id":"12UGE21",
+          "field":"content",
+          "pattern":83,
+          "sub_pattern":"biodiversit[e\u00e9]",
+          "start":1141,
+          "end":1153,
+          "extract":"Finance et climat & biodiversit"
+     },
+     {
+          "index":0,
+          "id":"11UEC11",
+          "field":"goal",
+          "pattern":126,
+          "sub_pattern":"probl[e\u00e8]mes?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":897,
+          "end":920,
+          "extract":"du capitalisme, les probl\u00e8mes environnementaux ou l'instabilit\u00e9"
+     },
+     {
+          "index":0,
+          "id":"12UEC20",
+          "field":"content",
+          "pattern":212,
+          "sub_pattern":"[e\u00e9]conomies?\\s+circulaire",
+          "start":1371,
+          "end":1390,
+          "extract":"ifs (l'exemple de l'\u00e9conomie circulaire) ;\n\n3.\tLes mod\u00e8les "
+     },
+     {
+          "index":0,
+          "id":"11UEC15",
+          "field":"goal",
+          "pattern":125,
+          "sub_pattern":"(?:environment[^\\s]*|ecosystem)\\s+problem",
+          "start":588,
+          "end":609,
+          "extract":"tory of capitalism, environmental problems or economic crises"
+     }
+]

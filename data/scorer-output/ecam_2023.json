@@ -1,0 +1,292 @@
+[
+     {
+          "index":0,
+          "id":"1bamm10",
+          "field":"content",
+          "pattern":116,
+          "sub_pattern":"impacts?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":705,
+          "end":726,
+          "extract":"ut en int\u00e9grant les impacts environnementaux de ceux-ci.\nLe c"
+     },
+     {
+          "index":0,
+          "id":"1bamm10",
+          "field":"goal",
+          "pattern":116,
+          "sub_pattern":"impacts?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":395,
+          "end":416,
+          "extract":", mise en oeuvre, l'impacts environnementaux, ...)\r\nL'\u00e9tudian"
+     },
+     {
+          "index":0,
+          "id":"2bach20",
+          "field":"content",
+          "pattern":106,
+          "sub_pattern":"enjeux?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":1039,
+          "end":1059,
+          "extract":"n et polluants\r\nLes enjeux environnementaux de l'eau, de l'a"
+     },
+     {
+          "index":0,
+          "id":"2bach20",
+          "field":"content",
+          "pattern":178,
+          "sub_pattern":"pollu",
+          "start":950,
+          "end":955,
+          "extract":"ologie industrielle\nPollution de chimie de l'"
+     },
+     {
+          "index":1,
+          "id":"2bach20",
+          "field":"content",
+          "pattern":178,
+          "sub_pattern":"pollu",
+          "start":1011,
+          "end":1016,
+          "extract":"Notions d'\u00e9cologie\r\nPollution et polluants\r\nL"
+     },
+     {
+          "index":2,
+          "id":"2bach20",
+          "field":"content",
+          "pattern":178,
+          "sub_pattern":"pollu",
+          "start":1024,
+          "end":1029,
+          "extract":"logie\r\nPollution et polluants\r\nLes enjeux env"
+     },
+     {
+          "index":0,
+          "id":"3bmel30",
+          "field":"content",
+          "pattern":103,
+          "sub_pattern":"durabilit[e\u00e9]s?\\s+(?:(?:socio-?)?environnement|[e\u00e9]cosyst)",
+          "start":620,
+          "end":644,
+          "extract":"ue et les enjeux de durabilit\u00e9 environnementale et soci\u00e9tale.\nDe"
+     },
+     {
+          "index":0,
+          "id":"4cohy40",
+          "field":"content",
+          "pattern":177,
+          "sub_pattern":"[e\u00e9]purations?\\s+des\\s+eaux",
+          "start":1057,
+          "end":1075,
+          "extract":"uyaux enterr\u00e9s ;\r\nl'\u00e9puration des eaux us\u00e9es : principe de"
+     },
+     {
+          "index":0,
+          "id":"4coph40",
+          "field":"content",
+          "pattern":65,
+          "sub_pattern":"[e\u00e9]nerg[^\\s]+\\s+renouvelable",
+          "start":1144,
+          "end":1165,
+          "extract":" r\u00e9glementaire\r\n\r\n\r\nEnergies renouvelables\r\n\r\nContexte et d\u00e9f"
+     },
+     {
+          "index":0,
+          "id":"4coph40",
+          "field":"goal",
+          "pattern":65,
+          "sub_pattern":"[e\u00e9]nerg[^\\s]+\\s+renouvelable",
+          "start":1082,
+          "end":1103,
+          "extract":" de l'int\u00e9gration d'\u00e9nergies renouvelables dans un projet HVA"
+     },
+     {
+          "index":0,
+          "id":"4coph40",
+          "field":"content",
+          "pattern":116,
+          "sub_pattern":"impacts?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":1053,
+          "end":1073,
+          "extract":"et le free-cooling\r\nImpact environnemental des r\u00e9frig\u00e9rants\r"
+     },
+     {
+          "index":0,
+          "id":"4coph40",
+          "field":"content",
+          "pattern":179,
+          "sub_pattern":"qualit[e\u00e9]s?\\s+de\\s+l'air",
+          "start":576,
+          "end":592,
+          "extract":"ormes de base de la qualit\u00e9 de l'air int\u00e9rieur\r\nLes syst"
+     },
+     {
+          "index":0,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":63,
+          "sub_pattern":"wind\\s+energy",
+          "start":631,
+          "end":642,
+          "extract":"ion considerations\r\nWind energy\r\nHydropower\r\nBiomas"
+     },
+     {
+          "index":0,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"energy",
+          "start":16,
+          "end":22,
+          "extract":"The Sustainable Energy course is divided i"
+     },
+     {
+          "index":1,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"energy",
+          "start":209,
+          "end":215,
+          "extract":"Deffrennes (Nuclear Energy).\nThe \"Electro-Mech"
+     },
+     {
+          "index":2,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"energy",
+          "start":460,
+          "end":466,
+          "extract":"its sustainability. Energy topics will be appr"
+     },
+     {
+          "index":3,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"energy",
+          "start":588,
+          "end":594,
+          "extract":" political.\nCurrent energy context\r\nTransition"
+     },
+     {
+          "index":4,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"energy",
+          "start":636,
+          "end":642,
+          "extract":"onsiderations\r\nWind energy\r\nHydropower\r\nBiomas"
+     },
+     {
+          "index":5,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"energy",
+          "start":714,
+          "end":720,
+          "extract":" capture, land use, energy supply, ...)\r\nGeoth"
+     },
+     {
+          "index":6,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"energy",
+          "start":746,
+          "end":752,
+          "extract":"y, ...)\r\nGeothermal energy\r\nFossil and Hydroca"
+     },
+     {
+          "index":7,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"energy",
+          "start":777,
+          "end":783,
+          "extract":"sil and Hydrocarbon energy\r\nConcentrated and I"
+     },
+     {
+          "index":8,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"energy",
+          "start":963,
+          "end":969,
+          "extract":" the technics of bioenergy in the current and "
+     },
+     {
+          "index":9,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"energy",
+          "start":996,
+          "end":1002,
+          "extract":" current and future energy system :\n\nDefinitio"
+     },
+     {
+          "index":10,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"energy",
+          "start":1278,
+          "end":1284,
+          "extract":"erests\nThe \"Nuclear Energy\" part will address "
+     },
+     {
+          "index":11,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"sustaina",
+          "start":4,
+          "end":12,
+          "extract":"The Sustainable Energy course is"
+     },
+     {
+          "index":12,
+          "id":"4emen40",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"sustaina",
+          "start":444,
+          "end":452,
+          "extract":" transition and its sustainability. Energy topic"
+     },
+     {
+          "index":0,
+          "id":"4emio40",
+          "field":"content",
+          "pattern":185,
+          "sub_pattern":"nappes?\\s+(?:phr[e\u00e9]atique|aquif[e\u00e8]re|d'eau\\s+souterrain)",
+          "start":930,
+          "end":947,
+          "extract":" vide, rabattage de nappes phr\u00e9atiques, Pompage-turbinage"
+     },
+     {
+          "index":0,
+          "id":"4emmt40",
+          "field":"content",
+          "pattern":170,
+          "sub_pattern":"bio[\\s+-]?d[e\u00e9]gradable",
+          "start":262,
+          "end":275,
+          "extract":"en oeuvre\r\nPolym\u00e8re biod\u00e9gradables et bioplastiques.\n"
+     },
+     {
+          "index":0,
+          "id":"4gets40",
+          "field":"content",
+          "pattern":177,
+          "sub_pattern":"[e\u00e9]purations?\\s+des\\s+eaux",
+          "start":380,
+          "end":398,
+          "extract":"uyaux enterr\u00e9s ;\r\nl'\u00e9puration des eaux us\u00e9es : principe de"
+     }
+]

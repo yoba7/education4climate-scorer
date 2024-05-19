@@ -1,0 +1,492 @@
+[
+     {
+          "index":0,
+          "id":"BBMV3060-1",
+          "field":"content",
+          "pattern":174,
+          "sub_pattern":"d[e\u00e9]chets?\\s+(?:nucl[e\u00e9]aire|radioactif)",
+          "start":3066,
+          "end":3084,
+          "extract":"e en Belgique\n- Les d\u00e9chets radioactifs\n- La radioprotecti"
+     },
+     {
+          "index":0,
+          "id":"BBQV1090-1",
+          "field":"content",
+          "pattern":177,
+          "sub_pattern":"[e\u00e9]purations?\\s+des\\s+eaux",
+          "start":2034,
+          "end":2052,
+          "extract":"physico-chimiques d'\u00e9puration des eaux us\u00e9es\nAnalyse des b"
+     },
+     {
+          "index":0,
+          "id":"BCHV1080-1",
+          "field":"content",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":293,
+          "end":305,
+          "extract":"les principes de la chimie verte. Les \u00e9tudiants abor"
+     },
+     {
+          "index":0,
+          "id":"BCHV1080-1",
+          "field":"goal",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":795,
+          "end":807,
+          "extract":" sous l'angle de la chimie verte.\nAppliquer les conn"
+     },
+     {
+          "index":0,
+          "id":"BCHV2050-1",
+          "field":"content",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":305,
+          "end":317,
+          "extract":" chimie:\npolym\u00e8res, chimie verte, biotechnologie, ch"
+     },
+     {
+          "index":0,
+          "id":"BCHV2070-1",
+          "field":"content",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":257,
+          "end":269,
+          "extract":"ensibilisation \u00e0 la chimie verte.\nTECHNIQUES DE BASE"
+     },
+     {
+          "index":1,
+          "id":"BCHV2070-1",
+          "field":"content",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":758,
+          "end":770,
+          "extract":"ENSIBILISATION A LA CHIMIE VERTE\nChaque \u00e9tudiant re\u00e7"
+     },
+     {
+          "index":2,
+          "id":"BCHV2070-1",
+          "field":"content",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":1299,
+          "end":1311,
+          "extract":" 12 principes de la chimie verte sont pr\u00e9sent\u00e9s et l"
+     },
+     {
+          "index":0,
+          "id":"BCHV2070-1",
+          "field":"goal",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":1113,
+          "end":1125,
+          "extract":"rents param\u00e8tres de chimie verte pour les synth\u00e8ses:"
+     },
+     {
+          "index":0,
+          "id":"BCHV2330-1",
+          "field":"content",
+          "pattern":197,
+          "sub_pattern":"bio[\\s+-]?carburant",
+          "start":591,
+          "end":603,
+          "extract":" et propri\u00e9t\u00e9s d'un biocarburant\n- Dosage des consti"
+     },
+     {
+          "index":0,
+          "id":"BCHV2430-1",
+          "field":"content",
+          "pattern":73,
+          "sub_pattern":"biomasse",
+          "start":411,
+          "end":419,
+          "extract":"sants majeurs de la biomasse lignocellulosique e"
+     },
+     {
+          "index":1,
+          "id":"BCHV2430-1",
+          "field":"content",
+          "pattern":73,
+          "sub_pattern":"biomasse",
+          "start":512,
+          "end":520,
+          "extract":"r\u00e9traitements de la biomasse lignocellulosique ;"
+     },
+     {
+          "index":2,
+          "id":"BCHV2430-1",
+          "field":"content",
+          "pattern":73,
+          "sub_pattern":"productions?\\s+(?:d')?(?:[e\u00e9]nerg|[e\u00e9]lec)",
+          "start":249,
+          "end":267,
+          "extract":"\u00e8re g\u00e9n\u00e9ration : la production d'\u00e9nergie, de biodiesel et "
+     },
+     {
+          "index":0,
+          "id":"BCHV2430-1",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"[e\u00e9]nergie",
+          "start":262,
+          "end":269,
+          "extract":"n : la production d'\u00e9nergie, de biodiesel et de"
+     },
+     {
+          "index":1,
+          "id":"BCHV2430-1",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"[e\u00e9]nergie",
+          "start":631,
+          "end":638,
+          "extract":" biocarburants et d'\u00e9nergie ; l'hydrolyse de la"
+     },
+     {
+          "index":2,
+          "id":"BCHV2430-1",
+          "field":"content",
+          "pattern":74,
+          "sub_pattern":"durab",
+          "start":45,
+          "end":50,
+          "extract":"verte \u00bb ou \u00ab chimie durable \u00bb.\n\n\n  \n\n\n 2.Intr"
+     },
+     {
+          "index":0,
+          "id":"BCHV2430-1",
+          "field":"content",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":18,
+          "end":30,
+          "extract":"1.Le concept de \u00ab chimie verte \u00bb ou \u00ab chimie durab"
+     },
+     {
+          "index":0,
+          "id":"BCHV2430-1",
+          "field":"content",
+          "pattern":197,
+          "sub_pattern":"bio[\\s+-]?carburant",
+          "start":612,
+          "end":624,
+          "extract":"es de production de biocarburants et d'\u00e9nergie ; l'h"
+     },
+     {
+          "index":0,
+          "id":"BCHV2430-1",
+          "field":"content",
+          "pattern":198,
+          "sub_pattern":"bio[\\s+-]?diesel",
+          "start":274,
+          "end":283,
+          "extract":"ction d'\u00e9nergie, de biodiesel et de produits \u00e0 pl"
+     },
+     {
+          "index":0,
+          "id":"BCHV2440-1",
+          "field":"content",
+          "pattern":177,
+          "sub_pattern":"[e\u00e9]purations?\\s+des\\s+eaux",
+          "start":596,
+          "end":614,
+          "extract":"ssus \u00e0 la base de l'\u00e9puration des eaux us\u00e9es.\nDescription "
+     },
+     {
+          "index":0,
+          "id":"BCHV2440-1",
+          "field":"content",
+          "pattern":178,
+          "sub_pattern":"pollu",
+          "start":332,
+          "end":337,
+          "extract":"on des processus de pollution et d\u00e9finition d"
+     },
+     {
+          "index":1,
+          "id":"BCHV2440-1",
+          "field":"content",
+          "pattern":178,
+          "sub_pattern":"pollu",
+          "start":479,
+          "end":484,
+          "extract":"tivit\u00e9, ions, micro-polluants, contaminations"
+     },
+     {
+          "index":0,
+          "id":"BCHV2450-1",
+          "field":"content",
+          "pattern":176,
+          "sub_pattern":"[e\u00e9]cotoxicologie",
+          "start":338,
+          "end":352,
+          "extract":"s:\n\n\n - Principes d'\u00e9cotoxicologie\n\n\n - D\u00e9finition des"
+     },
+     {
+          "index":0,
+          "id":"BCHV2460-1",
+          "field":"content",
+          "pattern":39,
+          "sub_pattern":"effets?\\s+(?:de\\s+)?serre",
+          "start":245,
+          "end":259,
+          "extract":"osph\u00e9riques : Gaz \u00e0 Effet de serre ; Acides ; Particul"
+     },
+     {
+          "index":0,
+          "id":"BCHV2460-1",
+          "field":"content",
+          "pattern":50,
+          "sub_pattern":"r[e\u00e9]chauffements?\\s+climat",
+          "start":341,
+          "end":361,
+          "extract":"s atmosph\u00e9riques :  R\u00e9chauffement climatique ; SMOG ; pluies"
+     },
+     {
+          "index":0,
+          "id":"BCHV2460-1",
+          "field":"content",
+          "pattern":178,
+          "sub_pattern":"pollu",
+          "start":212,
+          "end":217,
+          "extract":"ppement et fum\u00e9es ;\nPolluants atmosph\u00e9riques "
+     },
+     {
+          "index":1,
+          "id":"BCHV2460-1",
+          "field":"content",
+          "pattern":178,
+          "sub_pattern":"pollu",
+          "start":313,
+          "end":318,
+          "extract":"ne ; ...\nEffets des polluants atmosph\u00e9riques "
+     },
+     {
+          "index":0,
+          "id":"BCHV2460-1",
+          "field":"goal",
+          "pattern":178,
+          "sub_pattern":"pollu",
+          "start":146,
+          "end":151,
+          "extract":"iquer l'origine des pollutions atmosph\u00e9riques"
+     },
+     {
+          "index":1,
+          "id":"BCHV2460-1",
+          "field":"goal",
+          "pattern":178,
+          "sub_pattern":"pollu",
+          "start":238,
+          "end":243,
+          "extract":"liquer l'impact des polluants sur la qualit\u00e9 "
+     },
+     {
+          "index":0,
+          "id":"BCHV2460-1",
+          "field":"goal",
+          "pattern":179,
+          "sub_pattern":"qualit[e\u00e9]s?\\s+de\\s+l'air",
+          "start":255,
+          "end":271,
+          "extract":"es polluants sur la qualit\u00e9 de l'air et la sant\u00e9.\nD\u00e9crir"
+     },
+     {
+          "index":0,
+          "id":"BCHV3020-1",
+          "field":"content",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":1576,
+          "end":1588,
+          "extract":", en regard avec la Chimie Verte - Substitution de l"
+     },
+     {
+          "index":0,
+          "id":"BCHV3070-1",
+          "field":"content",
+          "pattern":178,
+          "sub_pattern":"pollu",
+          "start":1213,
+          "end":1218,
+          "extract":"s: des solvants aux polluant"
+     },
+     {
+          "index":0,
+          "id":"BCHV3310-1",
+          "field":"content",
+          "pattern":89,
+          "sub_pattern":"bio[\\s+-]?source",
+          "start":1209,
+          "end":1218,
+          "extract":"ynth\u00e8se : Source et Biosource - Utilisations : Ca"
+     },
+     {
+          "index":0,
+          "id":"BCHV3310-1",
+          "field":"content",
+          "pattern":114,
+          "sub_pattern":"gestions?\\s+(?:des?\\s+)?ressources?\\s+naturelle",
+          "start":574,
+          "end":606,
+          "extract":"environnement et de gestion des ressources naturelles.\nVue d'ensemble su"
+     },
+     {
+          "index":0,
+          "id":"BCHV3310-1",
+          "field":"content",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":1482,
+          "end":1494,
+          "extract":"es, en lien avec la chimie verte\nChapitre 7 : C3 et "
+     },
+     {
+          "index":0,
+          "id":"BCHV3440-1",
+          "field":"content",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":14,
+          "end":26,
+          "extract":"Module 1 : la chimie verte, une voie d'\u00e9voluti"
+     },
+     {
+          "index":1,
+          "id":"BCHV3440-1",
+          "field":"content",
+          "pattern":156,
+          "sub_pattern":"chimie\\s+(?:[^\\s]+\\s+){0,4}verte",
+          "start":438,
+          "end":450,
+          "extract":"Quel avenir pour la chimie verte et la biomasse "
+     },
+     {
+          "index":0,
+          "id":"BIMV2010-1",
+          "field":"content",
+          "pattern":174,
+          "sub_pattern":"d[e\u00e9]chets?\\s+(?:nucl[e\u00e9]aire|radioactif)",
+          "start":3083,
+          "end":3101,
+          "extract":"e en Belgique\n- Les d\u00e9chets radioactifs\n- La radioprotecti"
+     },
+     {
+          "index":0,
+          "id":"BINV1074-1",
+          "field":"goal",
+          "pattern":116,
+          "sub_pattern":"impacts?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":1274,
+          "end":1294,
+          "extract":"DEEE.\n- Conna\u00eetre l'impact environnemental du cycle de vie d"
+     },
+     {
+          "index":1,
+          "id":"BINV1074-1",
+          "field":"goal",
+          "pattern":116,
+          "sub_pattern":"impacts?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":1405,
+          "end":1425,
+          "extract":"...).\n- Conna\u00eetre l'impact environnemental des centres de do"
+     },
+     {
+          "index":2,
+          "id":"BINV1074-1",
+          "field":"goal",
+          "pattern":116,
+          "sub_pattern":"impacts?\\s+(?:environnement|[e\u00e9]cosyst)",
+          "start":1567,
+          "end":1587,
+          "extract":"e pour limiter leur impact environnemental.\n- Ma\u00eetriser la c"
+     },
+     {
+          "index":0,
+          "id":"ERGV1490-1",
+          "field":"content",
+          "pattern":83,
+          "sub_pattern":"biodiversit[e\u00e9]",
+          "start":1106,
+          "end":1118,
+          "extract":"le sol, l'air et la biodiversit\u00e9 et les occupations,"
+     },
+     {
+          "index":0,
+          "id":"ERGV2220-1",
+          "field":"content",
+          "pattern":161,
+          "sub_pattern":"[e\u00e9]co[\\-\\s]?responsab",
+          "start":783,
+          "end":796,
+          "extract":"hangement\n9 Flow\n10 Eco-responsabilit\u00e9 et d\u00e9veloppeme"
+     },
+     {
+          "index":0,
+          "id":"ERGV2410-1",
+          "field":"content",
+          "pattern":40,
+          "sub_pattern":"enjeux?\\s+climat",
+          "start":1663,
+          "end":1676,
+          "extract":"ergoth\u00e9rapie et les enjeux climatiques\nELearning\nA. P"
+     },
+     {
+          "index":0,
+          "id":"SSCV2460-1",
+          "field":"goal",
+          "pattern":74,
+          "sub_pattern":"[e\u00e9]nergie",
+          "start":502,
+          "end":509,
+          "extract":"quotidiens li\u00e9s \u00e0 l'\u00e9nergie ayant une influence"
+     },
+     {
+          "index":1,
+          "id":"SSCV2460-1",
+          "field":"goal",
+          "pattern":74,
+          "sub_pattern":"durab",
+          "start":601,
+          "end":606,
+          "extract":" d'un d\u00e9veloppement durable\nAcquis d'apprenti"
+     },
+     {
+          "index":0,
+          "id":"SSCV3430-1",
+          "field":"content",
+          "pattern":83,
+          "sub_pattern":"biodiversit[e\u00e9]",
+          "start":717,
+          "end":729,
+          "extract":"en et J-Ph Rioults, Biodiversit\u00e9 et \u00e9volution du mon"
+     },
+     {
+          "index":1,
+          "id":"SSCV3430-1",
+          "field":"content",
+          "pattern":83,
+          "sub_pattern":"biodiversit[e\u00e9]",
+          "start":778,
+          "end":790,
+          "extract":", Les cahiers de la biodiversit\u00e9, Editions EDP Scien"
+     },
+     {
+          "index":0,
+          "id":"SSHV2411-1",
+          "field":"content",
+          "pattern":10,
+          "sub_pattern":"[e\u00e9]talements?\\s+urbain",
+          "start":262,
+          "end":278,
+          "extract":": les migrations, l'\u00e9talement urbain, les risques nature"
+     }
+]

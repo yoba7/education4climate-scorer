@@ -25,15 +25,60 @@ ACCEPTED_LANGUAGES=['en','fr','nl']
 
 def import_scoring_fields(school):
     with open(f"{root}/data/scoring_fields.json") as f:
-        scoring_fields=json.load(f)
-    
-    scoring_fields=scoring_fields[school]
-    
-    return scoring_fields
+        scoring_fields=json.load(f)   
+    return scoring_fields[school]
 
 # %% Languages detection
 
 def find_language(text, declared_languages):
+    
+    '''
+    The scorer can be used to find terms in course descriptions. Terms are 
+    detected using regular expressions, which are available in three versions, 
+    corresponding to the three languages supported (ie: fr, nl and en). 
+    
+    Exemple of regular expressions (extract of the patterns.json file):
+        
+     {
+     "pattern_id":3,
+     "pattern_en":"bioclimat[^ ]+ architecture",
+     "pattern_fr":"architectur[^ ]+ bioclimatique",
+     "pattern_nl":"bioklima[^ ]+ architect",
+     "theme":"building"
+     }
+
+    This function determines the language of the regular expressions to be used 
+    to analyse the texts. This language must be a supporte language.
+    
+    The function analyses the language of the description. If the detection 
+    fails (the langdetect package is very efficient but sometimes fails to
+    detect the language of a descritpion) then we'll take into 
+    account the language(s) of the lesson as declared by the teacher. 
+    
+    The function only return supported languages (unsupported languages
+    are filtered out).
+    
+    Args:
+        text : the text to analyse
+        declared_languages : langugage(s) of the lesson as declared by the teacher.
+        
+    Returns:
+        List of languages.
+
+    Examples:
+        
+    >>> find_language("La descrizione è in italiano. Car il s'agit d'un cours d'italien mais qui se donne aussi en français",['it'])
+    ['fr']
+
+    >>> find_language("La descrizione è in italiano.",['it'])
+    []
+
+    >>> find_language("The description of the course in in English",['en','fr'])
+    ['en']
+
+    >>> find_language("The description of the course in in English",['fr'])
+    ['en']
+    '''
     
     if text is None:
         return None
@@ -41,7 +86,7 @@ def find_language(text, declared_languages):
     try:
         detected_and_supported_languages = [l.lang for l in detect_languages(text) if l.lang in ACCEPTED_LANGUAGES ]
     except langdetect.lang_detect_exception.LangDetectException:
-        return
+        return None
 
     if not detected_and_supported_languages:
         declared_and_supported_languages=set(declared_languages).intersection(set(ACCEPTED_LANGUAGES))
@@ -54,6 +99,20 @@ def find_language(text, declared_languages):
 # %% Import courses informations
 
 def import_courses(school,year,scoring_fields):
+    
+    '''
+    This function imports courses information that have been scraped. 
+    
+    Remarks:
+        - We get rid of some annoying characters that cause some troubles. The 
+          process has no effect on the length of texts. 
+        - We are also making use of the find_language function to detect 
+          languages of course description fields. We create new variables 
+          in the resulting DataFrame to store this information.
+    
+    '''
+    
+    # Import
     courses = pd.read_json(open(f"{root}/data/crawling-output/{school}_courses_{year}.json", 'r'), 
                            dtype={'id': str})
     
